@@ -4,7 +4,7 @@ body{
     width: auto;
     margin: 0px;
     padding: 0px;
-    background-color: rgb(125, 92, 224);   
+    background-color: rgb(173,196,222);   
 }
 header{
     position: absolute;
@@ -13,7 +13,7 @@ header{
 }
 
 div#principal{
-    background-color: white;
+    background-color: rgb(255,218,185);
     box-shadow:  0 0 2em rgb(124, 120, 120);
     padding-top: 10px;
     border-radius: 8px;
@@ -53,7 +53,7 @@ nav{
 nav li{   
     border: 1px solid red;  
     border-radius: 8px; 
-    background-color: rgb(221, 220, 216);
+    background-color: rgb(224, 186, 89);
     font-size: 20px;        
 }
 
